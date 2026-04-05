@@ -169,3 +169,4 @@ Los tests usan `RefreshDatabase` con factories. El `TenantScope` se respeta auto
 - [ ] Gestión de usuarios y roles por tenant
 - [ ] API REST para integraciones externas
 # CMMSPro
+# CMMSPro
